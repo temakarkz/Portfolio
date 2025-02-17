@@ -14,6 +14,7 @@
 **Фактический результат:**
 - Сообщение: "Ошибка входа". Но нет указания на причину ошибки.
 
+**Вложения** <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen1.png" width="200" height="200">
 **Приоритет:** Высокий  
 **Статус:** Ожидает исправления  
 **Окружение:** Chrome 90, Windows 10  
