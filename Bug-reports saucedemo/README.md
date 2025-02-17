@@ -14,6 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen1.png" width="800" height="500">
 
+
 **Критичность:** Тривиальная
 **Приоритет:** Низкий  
 **Статус:** Ожидает исправления  
@@ -37,6 +38,7 @@
 
 <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen2.png" width="800" height="500">
 
+
 **Критичность:** Тривиальная
 **Приоритет:** Низкий  
 **Статус:** Ожидает исправления  
@@ -58,7 +60,8 @@
 
 **Вложения:** 
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen2.png" width="800" height="500">
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen3.png" width="800" height="500">
+
 
 **Критичность:** Незначительный
 **Приоритет:** Средний  
@@ -82,7 +85,8 @@
 
 **Вложения:** 
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen2.png" width="800" height="500">
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen4.png" width="800" height="500">
+
 
 **Критичность:** Значительный
 **Приоритет:** Высокий  
