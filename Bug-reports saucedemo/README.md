@@ -18,6 +18,7 @@
 **Статус:** Ожидает исправления  
 **Окружение:** Chrome 90, Windows 11  
 
+---
 
 **ID:** LMAO-002  
 **Название:** Некорректное описание товара
@@ -33,7 +34,7 @@
 
 **Вложения:** 
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen1.png" width="800" height="500">
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen2.png" width="800" height="500">
 
 **Приоритет:** Низкий  
 **Статус:** Ожидает исправления  
