@@ -10,9 +10,6 @@
 **Ожидаемый результат:**
 - Товар должен отображаться с названием - "Sauce Labs T-shirt".
 
-**Фактический результат:**
-- Сообщение: "Ошибка входа". Но нет указания на причину ошибки.
-
 **Вложения:** 
 
 <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen1.png" width="800" height="500">
