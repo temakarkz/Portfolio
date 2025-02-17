@@ -14,6 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen1.png" width="800" height="500">
 
+**Критичность:** Тривиальная
 **Приоритет:** Низкий  
 **Статус:** Ожидает исправления  
 **Окружение:** Chrome 90, Windows 11  
@@ -36,6 +37,54 @@
 
 <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen2.png" width="800" height="500">
 
+**Критичность:** Тривиальная
 **Приоритет:** Низкий  
+**Статус:** Ожидает исправления  
+**Окружение:** Chrome 90, Windows 11  
+
+---
+
+**ID:** LMAO-003 
+**Название:** Некорректно работает вкладка сортировки товаров
+
+**Описание:** Вкладка сортировки товаров при нажатии работает некорректно. 
+
+**Шаги для воспроизведения:**
+1. Перейти на страницу https://www.saucedemo.com/inventory.html
+2. Кликнуть на вкладку сортировки товаров 
+
+**Ожидаемый результат:**
+- Вкладка сортировки товаров должна развертываться в выпадающий список.
+
+**Вложения:** 
+
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen2.png" width="800" height="500">
+
+**Критичность:** Незначительный
+**Приоритет:** Средний  
+**Статус:** Ожидает исправления  
+**Окружение:** Chrome 90, Windows 11  
+
+---
+
+**ID:** LMAO-004  
+**Название:** Не отображается гиперссылка на страницу политики конфидинциальности
+
+**Описание:** Не работает гиперссылка для перехода на страницу политики конфиденциальности PolicyTerms of Service | Privacy Policy
+
+**Шаги для воспроизведения:**
+1. Перейти на страницу https://www.saucedemo.com/inventory.html
+2. Опуститься к футеру сайта
+3. Проверить вкладку PolicyTerms of Service | Privacy Policy
+
+**Ожидаемый результат:**
+- Вкладка PolicyTerms of Service | Privacy Policy должна являться гиперссылкой отсылающая на страницу политики конфиденциальности.
+
+**Вложения:** 
+
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20saucedemo/screen2.png" width="800" height="500">
+
+**Критичность:** Значительный
+**Приоритет:** Высокий  
 **Статус:** Ожидает исправления  
 **Окружение:** Chrome 90, Windows 11  
