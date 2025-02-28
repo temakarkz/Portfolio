@@ -9,7 +9,7 @@
      ```
      Это делает невозможным продолжение регистрации.
 
-     <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20173748.png" width="600" height="300">
+     <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20173748.png" width="500" height="200">
 
    - **Окружение:** Windows 11, Google Chrome.
 
@@ -20,7 +20,7 @@
      ```
      Это делает невозможным продолжение регистрации.
 
-    <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20173638.png" width="600" height="300">  
+     <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20173638.png" width="500" height="200">  
 
    - **Окружение:** Windows 11, Google Chrome.
 
@@ -37,7 +37,7 @@
 5. **Проблема с фамилией (last_name):**
    - При отправке запроса напрямую к серверу, ввод фамилии латиницей не вызывает ошибки и позволяет зарегистрироваться.
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20172736.png" width="600" height="300">
+     <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20172736.png" width="600" height="300">
 
 ## Задачи на исправление
 
