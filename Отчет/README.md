@@ -9,7 +9,7 @@
      ```
      Это делает невозможным продолжение регистрации.
 
-     <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20173748.png" width="500" height="200">
+     <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20173748.png" width="400" height="150">
 
    - **Окружение:** Windows 11, Google Chrome.
 
@@ -20,14 +20,14 @@
      ```
      Это делает невозможным продолжение регистрации.
 
-     <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20173638.png" width="500" height="200">  
+     <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20173638.png" width="400" height="150">  
 
    - **Окружение:** Windows 11, Google Chrome.
 
 3. **Проблема с доменом email:**
    - При отправке запроса напрямую к серверу, ввод домена `@gmail` не вызывает ошибки и позволяет зарегистрироваться.
   
-     <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20172736.png" width="600" height="300">
+     <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Отчет/Снимок%20экрана%202025-02-28%20170757.png" width="600" height="300">
 
 4. **Проблема с именем (first_name):**
    - При отправке запроса напрямую к серверу, ввод имени латиницей не вызывает ошибки и позволяет зарегистрироваться.
