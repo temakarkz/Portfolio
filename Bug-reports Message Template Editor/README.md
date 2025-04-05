@@ -14,15 +14,16 @@
 
 **Вложения:** 
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20141701.png" width="800" height="500">
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20141701.png" width="600" height="400">
 
 **Комментарии:**
 - Ссылка на требования:
 
-<img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20001043.png"
+<img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20001043.png" width="400" height="300">
 
 
 **Критичность:** Средний
+
 **Приоритет:** Средний  
 **Статус:** Ожидает исправления  
 **Окружение:** Yandex Browser 25.2.2.834 (64-bit), Windows 11  
