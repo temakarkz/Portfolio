@@ -22,7 +22,7 @@
 <img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20001043.png" width="800" height="300">
 
 
-**Критичность:** Средний.\n
-**Приоритет:** Средний.
-**Статус:** Ожидает исправления.  
+**Критичность:** Средний.  
+**Приоритет:** Средний. 
+**Статус:** Ожидает исправления.   
 **Окружение:** Yandex Browser 25.2.2.834 (64-bit), Windows 11  
