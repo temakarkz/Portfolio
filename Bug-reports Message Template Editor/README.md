@@ -48,7 +48,7 @@ READY
 
 **Вложения:** 
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Запись%20экрана%202025-04-05%20175824.gif" width="1400" height="100">
+<img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Запись%20экрана%202025-04-05%20175824.gif" width="1400" height="100">
 
 **Комментарии:**
 - Ссылка на требования:
@@ -83,7 +83,7 @@ PROCESS
 
 **Вложения:** 
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Запись%20экрана%202025-04-05%20200819.gif" width="1000" height="300">
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Запись%20экрана%202025-04-05%20200819.gif" width="1000" height="100">
 
 **Комментарии:**
 - Ссылка на требования:
