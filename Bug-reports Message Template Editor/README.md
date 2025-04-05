@@ -121,7 +121,7 @@
 <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Запись%20экрана%202025-04-06%20013649.gif" width="1000" height="200">
 
 **Комментарии:**
-- При вводе \", \\, управляющих символов (\b, \n, \t и т.д.) отрабатывает корректно. Путь файла (Ctrl + p) -index.ts:45
+- При вводе \\", \\\\, управляющих символов (\b, \n, \t и т.д.) отрабатывает корректно. Путь файла (Ctrl + p) -index.ts:45
 - Логи из консоли:
 
 <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20102801.png" width="1000" height="200">
