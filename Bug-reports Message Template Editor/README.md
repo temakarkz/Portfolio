@@ -14,7 +14,7 @@
 
 **Вложения:** 
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20141701.png" width="1000" height="400">
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20141701.png" width="1000" height="300">
 
 **Комментарии:**
 - Ссылка на требования:
@@ -80,7 +80,7 @@
 
 **Вложения:** 
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20174715.png" width="1000" height="400">
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20174715.png" width="1000" height="300">
 
 **Критичность:** Низкий.  
 **Приоритет:** Средний. 
