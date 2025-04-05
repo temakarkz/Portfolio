@@ -14,12 +14,12 @@
 
 **Вложения:** 
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20141701.png" width="800" height="400">
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20141701.png" width="1000" height="400">
 
 **Комментарии:**
 - Ссылка на требования:
 
-<img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20001043.png" width="800" height="300">
+<img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20001043.png" width="1000" height="300">
 
 
 **Критичность:** Средний.  
@@ -41,11 +41,11 @@
 4. Кликнуть на кнопку "Preview"
 
 **Ожидаемый результат:**
-- Текст не должен выходить за рамки поля "Message Preview".
+- При достижении границ поля "Message Preview" текст должен преноситься на новую строку.
 
 **Вложения:** 
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20174715.png" width="800" height="400">
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20174715.png" width="1000" height="400">
 
 **Критичность:** Низкий.  
 **Приоритет:** Низкий. 
