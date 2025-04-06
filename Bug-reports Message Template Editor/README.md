@@ -413,9 +413,9 @@
 **Комментарии:** 
 - Необходимо убрать свойство padding в CSS классе .editorHeader. Ссылка на элемент - MessageTemplateEditor.module.css: 17 (CSS файл).
 
-<img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-06%20162950.png" width="1000" height="500">
+<img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-06%20162950.png" width="1000" height="350">
 
- <img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-06%20163547.png" width="1000" height="500">
+ <img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-06%20163547.png" width="1000" height="350">
 
 **Критичность:** Низкий.  
 **Приоритет:** Низкий. 
