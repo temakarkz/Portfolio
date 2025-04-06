@@ -295,7 +295,7 @@
 
 **Вложения:** 
 
-<img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-06%20135631.png" width="1000" height="300">
+<img src = "https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-06%20135631.png" width="1000" height="400">
 
 **Комментарии:**
 - Из-за отсутствия фильтрации текста в полях ввода переменных появляется большое количество багов, связанных с дублированием текста при использовании переменной больше 1 раза, а также возможностью переопределения переменных.
