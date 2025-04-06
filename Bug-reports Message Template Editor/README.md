@@ -236,7 +236,7 @@
 
 **Вложения:** 
 
-<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Запись%20экрана%202025-04-06%20144949.gif" width="1000" height="300">
+<img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Запись%20экрана%202025-04-06%20144949.gif" width="1000" height="200">
 
 **Критичность:** Низкий.  
 **Приоритет:** Низкий. 
