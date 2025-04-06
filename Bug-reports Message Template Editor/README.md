@@ -115,7 +115,10 @@
 - В поле "Message Preview" должно отобразиться значение "\\".
 
 **Фактический результат:**
-- Возникает <details> index.ts:33 Error parsing template: SyntaxError: Expected ',' or '}' after property value in JSON at position 29 (line 1 column 30) at JSON.parse (<anonymous>) at deserializeTemplate (index.ts:31:1) at MessagePreview (MessagePreview.tsx:32:1)<summary>ошибка</summary></details> в index.ts, поле "Message Preview" форматируется.
+- Возникает <details><pre> index.ts:33 Error parsing template: SyntaxError: Expected ',' or '}' after property value in JSON at position 29 (line 1 column 30)
+    at JSON.parse (<anonymous>)
+    at deserializeTemplate (index.ts:31:1)
+    at MessagePreview (MessagePreview.tsx:32:1)<summary>ошибка</summary></pre></details> в index.ts, поле "Message Preview" форматируется.
 
 **Вложения:** 
 
