@@ -153,7 +153,7 @@
 
 <img src="https://raw.githubusercontent.com/temakarkz/Portfolio/refs/heads/main/Bug-reports%20Message%20Template%20Editor/Media/Снимок%20экрана%202025-04-05%20174715.png" width="1000" height="300">
 
-**Критичность:** Срредний.  
+**Критичность:** Средний.  
 **Приоритет:** Средний. 
 
 **Статус:** Ожидает исправления.   
