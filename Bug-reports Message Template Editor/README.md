@@ -112,10 +112,13 @@
 5. Ввести в поле ввода "company" - '\\'
 
 **Ожидаемый результат:**
-- В поле "Message Preview" должно отобразиться значение {{company}} в качестве переменной обернутой в фигурные скобки.
+- В поле "Message Preview" должно отобразиться значение "\\".
 
 **Фактический результат:**
-- В поле "Message Preview" отображается {{company}} в качестве переменной.
+- Возникает ошибка >!index.ts:33 Error parsing template: SyntaxError: Expected ',' or '}' after property value in JSON at position 29 (line 1 column 30)
+    at JSON.parse (<anonymous>)
+    at deserializeTemplate (index.ts:31:1)
+    at MessagePreview (MessagePreview.tsx:32:1)!<, поле "Message Preview" форматируется.
 
 **Вложения:** 
 
