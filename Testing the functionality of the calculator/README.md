@@ -1,4 +1,4 @@
-# Testing the Functionality of the Calculator
+#Testing the Functionality of the Calculator
 
 ## Чек-листы
 
